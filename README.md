@@ -10,6 +10,13 @@ URL's were Classified into two categories:
 TF - IDF Vectorizer was used for Feature Extraction.
 Logistic Regression Classifier was used to classify URLs.
 
+## Performance:
+Accuracy : 98.27%
+
+Confusion Matrix :
+
+![](/images/confusion_matrix.png)
+
 ## Screenshots:
 ![](/images/screenshot_1.jpg)
 ![](/images/Screenshot_2.jpg)
